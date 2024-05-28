@@ -5,7 +5,7 @@
 - ⚡ In my free time, I play different games and research of interesting technologies and tools
 ### Connect with me:
 [<img src='https://www.svgrepo.com/show/452115/telegram.svg' alt='telegram' height='45'>](https://t.me/ralf303)  [<img src='https://www.svgrepo.com/show/303449/vk-1-logo.svg' alt='VK' height='45'>](https://vk.com/ralf303)
-<br>
+<br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ralf303)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralf303)](https://github.com/anuraghazra/github-readme-stats)
@@ -112,8 +112,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis
         >
     </a><a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express"
+src="https://www.svgrepo.com/show/354210/prisma.svg"
+            alt="prisma"
             width="40"
             height="40"
         >
