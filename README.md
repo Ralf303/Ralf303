@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning different things   
 - ⚡ In my free time, I play different games and research of interesting technologies and tools
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ralf303)  [<img src='https://www.svgrepo.com/show/506600/telegram.svg' alt='telegram' height='62'>](https://t.me/ralf303)  [<img src='https://www.svgrepo.com/show/473825/vk.svg' alt='VK' height='45'>](https://vk.com/ralf303)
+[<img src='https://www.svgrepo.com/show/452115/telegram.svg' alt='telegram' height='50'>](https://t.me/ralf303)  [<img src='https://www.svgrepo.com/show/303449/vk-1-logo.svg' alt='VK' height='45'>](https://vk.com/ralf303)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ralf303)](https://github.com/ryo-ma/github-profile-trophy)
 
